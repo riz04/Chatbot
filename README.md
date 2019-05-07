@@ -1,6 +1,8 @@
 # Chatbot
 Chatbot which can give answers of your questions based on a given story
 
+![Chatbot Image](chatbot.png)
+
 ## Start with analysing the dataset
 - Here, in our data we have certain set of stories followed by a question.
 - And, we tend to create a chatbot which answers these questions as a yes or a no.
